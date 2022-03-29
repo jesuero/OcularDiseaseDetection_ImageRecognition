@@ -1,4 +1,4 @@
-# Ocular Disease Detection - DeepLearning
+# Ocular Disease Detection - Image Recognition
 Ocular disease image detection using neural networks.
 
 ----------- This project is under development -----------

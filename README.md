@@ -16,3 +16,5 @@ Images are classified in eight labels including:
 - Hypertension (H),
 - Pathological Myopia (M),
 - Other diseases/abnormalities (O)
+
+Kaggle link to the dataset: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k

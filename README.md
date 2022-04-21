@@ -17,6 +17,8 @@ Images are classified in eight labels including:
 
 Kaggle link to the dataset: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
+
+
 According to 2010 World Health Organization data: There are more than 39 million blind people where 80% of them could have been prevented! This lack of prevention is especially true in developing countries where cataract is still the highest with 51% globally.
 
 The current standard for the classification of diseases based on fundus photography, includes a manual estimation of injury locations and an analysis of their severity, which requires a lot of time by the ophthalmologist, also incurring high costs in the healthcare system. Therefore, it would be helpful to have automated methods for performing the analysis.

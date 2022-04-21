@@ -58,6 +58,7 @@ However, VGGNet consists in a high number of parameters, which can be a bit chal
   <img src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/vgg_architecture.png?raw=true">
 </p>
 
+<br/>
 
 # Project phases
 

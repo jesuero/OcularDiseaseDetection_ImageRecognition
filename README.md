@@ -26,11 +26,8 @@ The current standard for the classification of diseases based on fundus photogra
 In the next image, a plot of the diagnosis distribution from the labelled images that appear in the ODIR dataset is shown:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true">
+  <img src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true">
 </p>
-
-
-![Diseases pie-chart distribution](https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true)
 
 
 ## Deep Learning
@@ -44,7 +41,9 @@ ResNet50 is a variant of ResNet model which has 48 Convolution layers along with
 
 * This architecture can be used on computer vision tasks such as image classification, object localization or object detection.
 
-![The-architecture-of-ResNet-50-model.png](attachment:The-architecture-of-ResNet-50-model.png)
+<p align="center">
+  <img src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/resnet_architecture.png?raw=true">
+</p>
 
 
 ### VGG16
@@ -55,7 +54,9 @@ VGGNet-16 consists of 16 convolutional layers and is very appealing because of i
 
 However, VGGNet consists in a high number of parameters, which can be a bit challenging to handle. VGG can be achieved through transfer Learning in which the model is pretrained on a dataset and the parameters are updated for better accuracy and you can use the parameters values.
 
-![Diseases pie-chart distribution](https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true)
+<p align="center">
+  <img src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/vgg_architecture.png?raw=true">
+</p>
 
 
 # Project phases
@@ -115,7 +116,9 @@ A model using pretrained model VGG16 with binary classification was tested using
 
 The decision to choose Cataract class was also made because the results obtained in notebook 11_VGG_flip.ipynb, where the model made relatively good prections for this class. Also, visually inspecting the images there is a clear difference between ocular fundus images from a Normal eye and an eye with Cataract disease, as it can be seen in the next image:
 
-![C_N_image.png](attachment:C_N_image.png)
+<p align="center">
+  <img src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/cataract_vs_normal.png?raw=true">
+</p>
 
 
 **Note: all the ipynb notebooks were run on Google Colab.**

@@ -25,6 +25,11 @@ The current standard for the classification of diseases based on fundus photogra
 
 In the next image, a plot of the diagnosis distribution from the labelled images that appear in the ODIR dataset is shown:
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true">
+</p>
+
+
 ![Diseases pie-chart distribution](https://github.com/jesuero/OcularDiseaseDetection_ImageRecognition/blob/main/images/diseases_distribution.png?raw=true)
 
 

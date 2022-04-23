@@ -122,4 +122,4 @@ The decision to choose Cataract class was also made because the results obtained
 </p>
 
 
-**Note: all the ipynb notebooks were run on Google Colab.**
+**Note: all the models were trained on Google Colab.**
